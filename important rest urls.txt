@@ -1,0 +1,6 @@
+Godaddy available url
+llams.in
+
+
+->url = 'accounts/ google/ login/'
+    {% provider_login_url 'google' %}
